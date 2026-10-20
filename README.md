@@ -1,8 +1,6 @@
-# 2026 General Election: Marin Ballot Justice Research
+# 2026 General Election Justice Research
 
-A searchable guide to selected California appellate decisions involving the 13 justices on Marin County's 2026 judicial retention ballot. Filter by justice, topic, or participation, search the summaries, and follow links to the underlying sources.
-
-As of October 20, 2026, the catalog contains **153 decisions and 250 justice participations**, with **152 completed summaries**. It includes published opinions and a news-led unpublished-opinion supplement. One cataloged decision lacks a summary because its opinion text was not recovered.
+A searchable guide to selected California appellate decisions. Currently scoped to the 13 justices on Marin County's 2026 judicial retention ballot. This project was architected by a human but all searching and summarization was done by either GPT-6 Astra or GPT 6.1 Sol. Assume the reliablity of any information on this repo or information hosted by it as you would any LLM written material. Attention was paid to have some traceability but the information provided is to be used at your own risk, and no claims of absolute truth are guaranteed.
 
 Cases were discovered through news searches and matched to official court records or the court-designated California Official Reports service on Lexis. News coverage provides discovery leads; court documents support the summaries. GPT-6.1 Sol generated the summaries, and GPT-6 Astra handled searching, source matching, the viewer, and the rest of the project. The viewer's **Review notes** explain the process and limitations.
 
