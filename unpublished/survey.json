@@ -1,0 +1,111 @@
+{
+  "checked_on": "2026-10-20",
+  "baseline_decisions": 135,
+  "baseline_participations": 221,
+  "added_unpublished_decisions": 18,
+  "added_unpublished_participations": 29,
+  "combined_decisions": 153,
+  "combined_participations": 250,
+  "previously_excluded_now_verified": 4,
+  "logged_search_queries": 84,
+  "pending_lead_groups": 1,
+  "historical_records_not_added": 3,
+  "incidental_originally_published_decisions": 10,
+  "incidental_participations": 11,
+  "per_justice": [
+    {
+      "key": "Evans",
+      "name": "Kelli M. Evans",
+      "before": 36,
+      "added": 0,
+      "combined": 36
+    },
+    {
+      "key": "Groban",
+      "name": "Joshua P. Groban",
+      "before": 47,
+      "added": 0,
+      "combined": 47
+    },
+    {
+      "key": "Smiley",
+      "name": "Charles A. Smiley",
+      "before": 2,
+      "added": 5,
+      "combined": 7
+    },
+    {
+      "key": "Banke",
+      "name": "Kathleen M. Banke",
+      "before": 14,
+      "added": 8,
+      "combined": 22
+    },
+    {
+      "key": "Wilson",
+      "name": "Monique Langhorne Wilson",
+      "before": 5,
+      "added": 5,
+      "combined": 10
+    },
+    {
+      "key": "Stewart",
+      "name": "Therese M. Stewart",
+      "before": 7,
+      "added": 1,
+      "combined": 8
+    },
+    {
+      "key": "Desautels",
+      "name": "Tara M. Desautels",
+      "before": 7,
+      "added": 0,
+      "combined": 7
+    },
+    {
+      "key": "Petrou",
+      "name": "Ioana Petrou",
+      "before": 17,
+      "added": 2,
+      "combined": 19
+    },
+    {
+      "key": "Rodriguez",
+      "name": "Victor A. Rodríguez",
+      "before": 11,
+      "added": 0,
+      "combined": 11
+    },
+    {
+      "key": "Brown",
+      "name": "Tracie L. Brown",
+      "before": 16,
+      "added": 1,
+      "combined": 17
+    },
+    {
+      "key": "Simons",
+      "name": "Mark Simons",
+      "before": 22,
+      "added": 3,
+      "combined": 25
+    },
+    {
+      "key": "Chou",
+      "name": "Danny Y. Chou",
+      "before": 14,
+      "added": 1,
+      "combined": 15
+    },
+    {
+      "key": "Burns",
+      "name": "Gordon Burns",
+      "before": 23,
+      "added": 3,
+      "combined": 26
+    }
+  ],
+  "baseline_sha256": "75977a9804b84fdf3041118765f37997b3c419781d4171f2210bda058358100f",
+  "complete_inventory": false,
+  "summary_count_added": 17
+}

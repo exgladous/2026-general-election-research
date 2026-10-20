@@ -1,0 +1,1013 @@
+[
+  {
+    "j": "Groban",
+    "q": "\"Joshua Groban\" \"unpublished\" opinion ruling",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Groban",
+    "q": "\"Justice Groban\" unpublished court decision news",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Evans",
+    "q": "\"Kelli Evans\" \"unpublished\" opinion",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Evans",
+    "q": "\"Justice Evans\" unpublished California ruling",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Groban",
+    "q": "\"Groban\" \"unpublished\" \"dissent\" California news",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Groban",
+    "q": "\"Joshua Groban\" \"assigned\" \"Court of Appeal\" opinion",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Evans",
+    "q": "\"Kelli Evans\" \"assigned\" \"Court of Appeal\" opinion",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Evans",
+    "q": "\"Evans\" \"Coleman\" \"racial\" review California news",
+    "stage": "unpublished fresh search",
+    "results": [],
+    "productive": false,
+    "note": "Searches surfaced published Supreme Court opinions, review-stage actions, or unrelated namesakes. Only curated follow-up links are retained in lead_outcomes; result lists are not a full search archive."
+  },
+  {
+    "j": "Smiley",
+    "q": "\"Smiley\" \"unpublished\" court news",
+    "results": [],
+    "productive": false,
+    "note": "Predominantly namesakes and opinion mirrors; no new qualifying news lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Smiley",
+    "q": "\"Charles Smiley\" appeal ruling news",
+    "results": [
+      {
+        "title": "Smiley rulings profile",
+        "url": "https://www.dailyjournal.com/articles/395278-smiley-s-rulings-trace-limits-of-law-from-flagpoles-to-criminal-courts"
+      }
+    ],
+    "productive": true,
+    "note": "Revisit profile identifies Arcata/Llamas-Venegas/Lewis; already seeded.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Smiley",
+    "q": "\"Smiley\" \"Lewis\" \"pets\" court",
+    "results": [
+      {
+        "title": "Smiley rulings profile",
+        "url": "https://www.dailyjournal.com/articles/395278-smiley-s-rulings-trace-limits-of-law-from-flagpoles-to-criminal-courts"
+      }
+    ],
+    "productive": false,
+    "note": "Same profile; no docket.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Smiley",
+    "q": "\"Lewis\" \"Smiley\" \"animal\" court 2025",
+    "results": [
+      {
+        "title": "Smiley rulings profile",
+        "url": "https://www.dailyjournal.com/articles/395278-smiley-s-rulings-trace-limits-of-law-from-flagpoles-to-criminal-courts"
+      }
+    ],
+    "productive": false,
+    "note": "Same profile; no docket.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Smiley",
+    "q": "\"People v. Lewis\" \"2025\" \"animal cruelty\"",
+    "results": [],
+    "productive": false,
+    "note": "Tool returned no response; not a negative search finding.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Smiley",
+    "q": "\"Smiley\" \"court\" site:sfchronicle.com",
+    "results": [
+      {
+        "title": "Vacancy tax",
+        "url": "https://www.sfchronicle.com/politics/article/san-francisco-vacancy-tax-ruling-22427983.php"
+      }
+    ],
+    "productive": false,
+    "note": "Known published lead and namesakes; no useful new unpublished lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Wilson",
+    "q": "\"Langhorne Wilson\" \"unpublished\" court",
+    "results": [
+      {
+        "title": "UC swimmers abuse claims",
+        "url": "https://www.dailyjournal.com/article/392329-appeals-court-revives-uc-berkeley-swimmers-abuse-claims-against-regents"
+      }
+    ],
+    "productive": true,
+    "note": "Touhey news; unrelated opinion mirrors not admitted without news lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Wilson",
+    "q": "\"Langhorne Wilson\" \"unpublished\" news -site:syfert.com -site:decisiondepot.legal -site:counselstack.com",
+    "results": [
+      {
+        "title": "UC swimmers abuse claims",
+        "url": "https://www.dailyjournal.com/article/392329-appeals-court-revives-uc-berkeley-swimmers-abuse-claims-against-regents"
+      }
+    ],
+    "productive": false,
+    "note": "Duplicate Touhey.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Wilson",
+    "q": "\"Monique Langhorne Wilson\" court ruling news",
+    "results": [
+      {
+        "title": "Wilson profile",
+        "url": "https://www.dailyjournal.com/articles/395335-langhorne-wilson-s-appellate-rulings-draw-on-years-as-trial-judge"
+      },
+      {
+        "title": "Touhey Bloomberg",
+        "url": "https://news.bloomberglaw.com/litigation/uc-berkeley-swim-coach-abuse-claims-revived-by-california-court"
+      }
+    ],
+    "productive": false,
+    "note": "Existing profile and Touhey; no useful new unpublished lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Wilson",
+    "q": "\"Langhorne\" \"unpublished\" site:sfchronicle.com",
+    "results": [],
+    "productive": false,
+    "note": "No results returned.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Wilson",
+    "q": "\"Langhorne Wilson\" site:courthousenews.com",
+    "results": [
+      {
+        "title": "Touhey",
+        "url": "https://www.courthousenews.com/cal-swimmers-win-second-chance-at-holding-uc-regents-accountable-for-coachs-abuse/"
+      },
+      {
+        "title": "Rowe",
+        "url": "https://www.courthousenews.com/first-degree-murder-conviction-for-2019-torture-poisoning-upheld/"
+      }
+    ],
+    "productive": false,
+    "note": "Only already seeded decisions.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Banke\" \"unpublished\" news",
+    "results": [],
+    "productive": false,
+    "note": "Broad combined response dominated by namesakes; no useful new lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Kathleen Banke\" \"unpublished\" news",
+    "results": [],
+    "productive": false,
+    "note": "Combined response yielded no useful new qualifying lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Kathleen Banke\" \"unpublished\"",
+    "results": [
+      {
+        "title": "Cashier extortion",
+        "url": "https://courthousenews.com/charging-cashiers-mistakes-isnt-extortion-court-finds/"
+      }
+    ],
+    "productive": true,
+    "note": "Resolved prior news access barrier: Gallano identified.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Banke\" \"Jensen\" \"120\"",
+    "results": [
+      {
+        "title": "Jensen sentencing",
+        "url": "https://www.sfchronicle.com/crime/article/Molester-s-120-year-sentence-upheld-4404460.php"
+      }
+    ],
+    "productive": true,
+    "note": "News supplies first name James; docket remains unresolved.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Hill\" \"Richmond\" \"Banke\" opinion",
+    "results": [
+      {
+        "title": "Hill opinion mirror",
+        "url": "https://law.counselstack.com/opinion/hill-v-city-of-richmond-ca11-calctapp-2021"
+      }
+    ],
+    "productive": true,
+    "note": "Prior news lead resolved to A159322 then official PDF.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Gallano\" \"Burlington\" \"2017\" opinion",
+    "results": [
+      {
+        "title": "Gallano mirror",
+        "url": "https://case-law.vlex.com/vid/gallano-v-burlington-coat-887194471"
+      }
+    ],
+    "productive": true,
+    "note": "Prior news lead resolved to A146335 then official PDF; distinct from 2021 Gallano appeal.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"People v. Jensen\" \"2013\" \"Banke\"",
+    "results": [],
+    "productive": false,
+    "note": "No results returned.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"California Judges Lose Fight\" pension",
+    "results": [
+      {
+        "title": "Judicial pensions",
+        "url": "https://courthousenews.com/california-judges-lose-fight-of-tighter-pension-scheme/"
+      }
+    ],
+    "productive": true,
+    "note": "Prior source access barrier resolved: McGlynn identified.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"McGlynn\" \"Banke\" opinion",
+    "results": [
+      {
+        "title": "McGlynn reporter",
+        "url": "https://www.leagle.com/decision/incaco20180320027"
+      }
+    ],
+    "productive": true,
+    "note": "Resolved A146855; official published PDF downloaded separately.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Elizalde\" \"2010\" \"Banke\"",
+    "results": [],
+    "productive": false,
+    "note": "Unrelated results; no matching lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Jensen\" \"March 29, 2013\" court",
+    "results": [],
+    "productive": false,
+    "note": "Unrelated results; exact date was a lookup inference from news Friday reference, not verified metadata.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Banke\" unpublished site:sfchronicle.com",
+    "results": [
+      {
+        "title": "Vallejo badge bending",
+        "url": "https://www.sfchronicle.com/politics/article/appeals-court-says-vallejo-disclose-badge-bending-20398101.php"
+      }
+    ],
+    "productive": false,
+    "note": "Known published lead only.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Banke\" unpublished site:news.bloomberglaw.com",
+    "results": [
+      {
+        "title": "Mason",
+        "url": "https://news.bloomberglaw.com/us-law-week/uber-drivers-liable-for-safety-when-passengers-exit-vehicles"
+      },
+      {
+        "title": "Reck",
+        "url": "https://news.bloomberglaw.com/product-liability-and-toxics-law/fca-on-hook-for-more-attorneys-fees-in-settled-lemon-law-case"
+      }
+    ],
+    "productive": true,
+    "note": "Reck is new but reported published; kept separately pending official verification.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"Banke\" \"unpublished\" site:courthousenews.com",
+    "results": [
+      {
+        "title": "Gallano",
+        "url": "https://courthousenews.com/charging-cashiers-mistakes-isnt-extortion-court-finds/"
+      }
+    ],
+    "productive": false,
+    "note": "Duplicate resolved lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Banke",
+    "q": "\"People v. Elizalde\" \"2010\"",
+    "results": [],
+    "productive": false,
+    "note": "Unrelated cases including different 2015 Supreme Court Elizalde; no safe match.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Brown",
+    "q": "\"Living Rivers\" \"Napa\" \"2019\" \"A\" Brown opinion",
+    "results": [
+      {
+        "title": "Living Rivers Council v. Cnty. of Napa",
+        "url": "https://case-law.vlex.com/vid/living-rivers-council-v-894871561"
+      },
+      {
+        "title": "Living Rivers modification",
+        "url": "https://climatecasechart.com/wp-content/uploads/case-documents/2019/20190930_docket-A154253-A154300-A154314_opinion.pdf"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"Campbell\" \"DoorDash\" \"2020\" \"A\" Petrou",
+    "results": [
+      {
+        "title": "DoorDash v Campbell",
+        "url": "https://supremecourt.report/cases/21-220.html"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "Stewart Richman \"2015\" \"clearly truthful\"",
+    "results": [],
+    "productive": false,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"In re Frank A.\" \"2019\"",
+    "results": [
+      {
+        "title": "Unrelated bankruptcy/name matches",
+        "url": "https://www.bankrupt.com/TCR_Public/190509.mbx"
+      }
+    ],
+    "productive": false,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"Stewart\" \"Richman\" \"2015\" \"grave injustice\"",
+    "results": [],
+    "productive": false,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"Rowe\" \"San Mateo\" \"2017\" Stewart appeal",
+    "results": [
+      {
+        "title": "County of San Mateo v Rowe",
+        "url": "https://caselaw.findlaw.com/court/ca-court-of-appeal/1868801.html"
+      },
+      {
+        "title": "Boy hurt by fallen tree can sue San Mateo County",
+        "url": "https://www.sfgate.com/bayarea/article/California-Supreme-Court-Boy-hurt-by-fallen-tree-12274016.php"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"Therese Stewart\" \"unpublished\"",
+    "results": [
+      {
+        "title": "Unrelated Therese Stewart memoir",
+        "url": "https://wiki.lineage-of-legends.com/books/my-life-of-faith-stewart"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"Ioana Petrou\" \"unpublished\"",
+    "results": [
+      {
+        "title": "City of Berkeley v 1080 Delaware; Petrou trial judge only",
+        "url": "https://lafayette.granicus.com/MetaViewer.php?clip_id=5241&meta_id=124288&view_id=3"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Brown",
+    "q": "\"Tracie Brown\" \"unpublished\"",
+    "results": [
+      {
+        "title": "Unrelated Washington litigant Tracie Brown",
+        "url": "https://www.courts.wa.gov/opinions/pdf/372774_unp.pdf"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Desautels",
+    "q": "\"Tara Desautels\" \"unpublished\"",
+    "results": [
+      {
+        "title": "Myasnyankin; Desautels trial judge only",
+        "url": "https://www.policyholderpulse.com/files/2024/02/Myasnyankin-v-Nationwide-Mutual-Insurance-Company.pdf"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"Stewart\" \"unpublished\" site:sfchronicle.com",
+    "results": [],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "No useful new lead in returned results.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"Petrou\" \"unpublished\" site:news.bloomberglaw.com",
+    "results": [
+      {
+        "title": "Fired Female VP May Use Most of CEO’s Shared Blog Post in Suit",
+        "url": "https://news.bloomberglaw.com/daily-labor-report/fired-female-vp-may-use-most-of-ceo-blog-post-in-defamation-suit",
+        "type": "news / legal reporting"
+      },
+      {
+        "title": "DoorDash Denied Arbitration of California Drivers’ Tip Claims",
+        "url": "https://news.bloomberglaw.com/daily-labor-report/doordash-denied-arbitration-of-california-drivers-tip-claims",
+        "type": "news / legal reporting"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "Re-found known Campbell and Alonso leads only.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Brown",
+    "q": "\"Brown\" \"unpublished\" site:courthousenews.com",
+    "results": [
+      {
+        "title": "Appeals Court Orders Second Look at Plan to Turn Napa Forest Into Vineyards",
+        "url": "https://www.courthousenews.com/appeals-court-orders-second-look-at-plan-to-turn-napa-forest-into-vineyards/",
+        "type": "news / legal reporting"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "Known Living Rivers plus irrelevant Brown names.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Desautels",
+    "q": "\"Desautels\" \"opinion\" site:dailyjournal.com",
+    "results": [
+      {
+        "title": "Desautels' rulings weigh deference, responsibility and litigation choices",
+        "url": "https://dailyjournal.com/articles/395079-desautels-rulings-weigh-deference-responsibility-and-litigation-choices",
+        "type": "legal reporting / judicial profile"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "Existing profile lead only.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"Stewart\" court \"unpublished\" site:metnews.com",
+    "results": [],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "No useful new lead in returned results.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"Petrou\" appeals court site:sfchronicle.com",
+    "results": [],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "No useful new lead in returned results.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Brown",
+    "q": "\"Tracie\" \"Brown\" ruling site:sfchronicle.com",
+    "results": [
+      {
+        "title": "Gig companies don't have to treat drivers as employees",
+        "url": "https://www.sfchronicle.com/politics/article/prop-22-legal-appeals-ruling-17837475.php"
+      },
+      {
+        "title": "Court reinstates malpractice suit against UCSF",
+        "url": "https://www.sfchronicle.com/bayarea/article/Court-reinstates-malpractice-suit-against-UCSF-by-17458095.php"
+      },
+      {
+        "title": "DUI and .08 blood-alcohol content two separate crimes",
+        "url": "https://www.sfchronicle.com/bayarea/article/DUI-and-having-a-08-blood-alcohol-content-two-16431485.php"
+      },
+      {
+        "title": "Pelican Bay prison riot",
+        "url": "https://www.sfchronicle.com/news/article/California-Supreme-Court-lets-charges-in-Pelican-16236609.php"
+      },
+      {
+        "title": "Court upholds ruling against Chahal",
+        "url": "https://www.sfchronicle.com/crime/article/Court-upholds-ruling-against-SF-tech-mogul-Chahal-12870668.php"
+      }
+    ],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "Known published opinions and trial-judge-only Chahal/Lewelling; no new unpublished candidate.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Desautels",
+    "q": "\"Desautels\" appeals court site:sfchronicle.com",
+    "results": [],
+    "productive": false,
+    "purpose": "discovery",
+    "note": "No useful new lead in returned results.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"A155082\"",
+    "results": [
+      {
+        "title": "Unrelated museum object",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co104719/silver-gilt-filigree-pendant"
+      }
+    ],
+    "productive": false,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"In re\" \"Stewart\" \"Lott\" \"2015\" \"Richman\"",
+    "results": [
+      {
+        "title": "In re I.C.",
+        "url": "https://law.counselstack.com/opinion/in-re-ic-calctapp-2015"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"County of San Mateo v. Superior Court\" \"2017\" A",
+    "results": [
+      {
+        "title": "County of San Mateo",
+        "url": "https://caselaw.findlaw.com/court/ca-court-of-appeal/1868828.html"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Brown",
+    "q": "\"A163590\" publication",
+    "results": [
+      {
+        "title": "SK Trading 77 Cal.App.5th378",
+        "url": "https://app.midpage.ai/document/sk-trading-international-v-superior-6325312"
+      },
+      {
+        "title": "Supreme Court conference review denied",
+        "url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/documents/SL071322.pdf"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"A151250\" publication",
+    "results": [],
+    "productive": false,
+    "purpose": "verification",
+    "note": "Only unrelated indexed items; no inference from absence.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"A159296\" publication",
+    "results": [
+      {
+        "title": "U.S. Supreme Court DoorDash docket",
+        "url": "https://www.supremecourt.gov/search.aspx?filename=%2Fdocket%2Fdocketfiles%2Fhtml%2Fpublic%2F21-220.html"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Brown",
+    "q": "\"A154253\" publication",
+    "results": [
+      {
+        "title": "Living Rivers modification packet mirror",
+        "url": "https://climatecasechart.com/wp-content/uploads/case-documents/2019/20190930_docket-A154253-A154300-A154314_opinion.pdf"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"A141143\" publication",
+    "results": [
+      {
+        "title": "Supreme Court October28 2015 minutes",
+        "url": "https://www.courts.ca.gov/documents/minutes/SOCT2815.PDF"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"A146077\" site:courts.ca.gov",
+    "results": [
+      {
+        "title": "Official opinion archive",
+        "url": "https://www.courts.ca.gov/opinions/archive/A146077.PDF"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"A146495\" site:courts.ca.gov",
+    "results": [
+      {
+        "title": "Official modified opinion",
+        "url": "https://www.courts.ca.gov/opinions/archive/A146495M.PDF"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"A155082\" site:courts.ca.gov",
+    "results": [],
+    "productive": false,
+    "purpose": "verification",
+    "note": "No indexed official match; official archive subsequently retrieved directly.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Stewart",
+    "q": "\"S229276\" opinion",
+    "results": [
+      {
+        "title": "Supreme Court official I.C. case page",
+        "url": "https://supreme.courts.ca.gov/case/s229276-re-ic"
+      },
+      {
+        "title": "Official case summary",
+        "url": "https://appellatecases.courtinfo.ca.gov/search/case/mainCaseScreen.cfm?dist=0&doc_id=2120165&doc_no=S229276"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Petrou",
+    "q": "\"Zagaris\" \"Petrou\" \"2019\" arbitration",
+    "results": [
+      {
+        "title": "Spracher",
+        "url": "https://law.justia.com/cases/california/court-of-appeal/2019/a152941.html"
+      }
+    ],
+    "productive": true,
+    "purpose": "verification",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Simons",
+    "q": "\"Simons\" \"unpublished\" Williams A171962",
+    "results": [
+      {
+        "title": "State v. Damion B. Simons (South Carolina; unrelated)",
+        "url": "https://www.sccourts.org/media/opinions/unpublishedopinions/HTMlFiles/COA/2009-UP-209.htm"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Burns",
+    "q": "\"Burns\" \"unpublished\" Sunnydale Wilson 2021",
+    "results": [],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Chou",
+    "q": "\"Chou\" \"unpublished\" court appeal news",
+    "results": [
+      {
+        "title": "Shihhan Chou v. Stephen V. Mikus (Wisconsin; unrelated)",
+        "url": "https://syfert.com/wisconsin/cases/cl-10862750/shihhan-chou-v-stephen-v-mikus"
+      },
+      {
+        "title": "Michael K. v. Cho (partially published; not a news lead)",
+        "url": "https://law.counselstack.com/opinion/michael-k-v-cho-calctapp-2025"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Simons",
+    "q": "\"Mark Simons\" \"unpublished\" court",
+    "results": [
+      {
+        "title": "People v. Smith A149655 (docket aggregator, not news-led)",
+        "url": "https://www.judyrecords.com/record/s5tc8it14c04"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Burns",
+    "q": "\"Gordon Burns\" \"unpublished\"",
+    "results": [
+      {
+        "title": "Burns v. Rich (Washington; unrelated)",
+        "url": "https://www.leagle.com/decision/1985106641wnapp10251864"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Chou",
+    "q": "\"Danny Chou\" \"unpublished\"",
+    "results": [
+      {
+        "title": "Coito v. Superior Court (Chou listed as counsel; not judicial participation)",
+        "url": "https://lewisbrisbois.com/assets/uploads/files/06-25-12_Witness_Interviews__Work_Product_Privilege_-_Coito.pdf"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Simons",
+    "q": "\"Simons\" \"unpublished\" site:sfchronicle.com",
+    "results": [],
+    "productive": false,
+    "note": "Empty search result.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Chou",
+    "q": "\"Chou\" \"unpublished\" site:metnews.com",
+    "results": [],
+    "productive": false,
+    "note": "Empty search result.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Rodriguez",
+    "q": "\"Rodriguez\" \"unpublished\" site:metnews.com",
+    "results": [],
+    "productive": false,
+    "note": "Empty search result.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Rodriguez",
+    "q": "\"Victor Rodriguez\" unpublished opinion court news",
+    "results": [
+      {
+        "title": "Victor Rodriguez-Gonzalez (Pennsylvania defendant; unrelated)",
+        "url": "https://law.counselstack.com/opinion/com-v-rodriguez-gonzalez-v-pasuperct-2023"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Chou",
+    "q": "\"Danny Y. Chou\" unpublished opinion news",
+    "results": [
+      {
+        "title": "Estate of Bodmann (trial judge Chou; published appellate decision)",
+        "url": "https://law.counselstack.com/opinion/estate-of-bodmann-calctapp-2025"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Burns",
+    "q": "\"Gordon Burns\" court reversal news",
+    "results": [
+      {
+        "title": "Gordon Burns ballot page (no new unpublished news lead)",
+        "url": "https://www.amendment.app/oversight/politicians/2c769a87-2046-4605-af98-257df0bd3228?electionId=36e59484-15e7-404f-8ee3-1d61cbc1045a&tab=candidate&year=2026"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Rodriguez",
+    "q": "\"Rodríguez\" justice \"unpublished\" California",
+    "results": [
+      {
+        "title": "People v. Rodriguez CA5 (defendant; unrelated)",
+        "url": "https://syfert.com/california/cases/cl-10583298/people-v-rodriguez-ca5"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Rodriguez",
+    "q": "\"Rodriguez\" \"appeals court\" site:sfchronicle.com",
+    "results": [],
+    "productive": false,
+    "note": "No useful result in combined response.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Simons",
+    "q": "\"Simons\" \"unpublished opinion\" California news",
+    "results": [
+      {
+        "title": "P. v. Simons G063557 (defendant in Fourth District; unrelated)",
+        "url": "https://courts.ca.gov/opinion/unpublished/2025-02-20/g063557"
+      }
+    ],
+    "productive": false,
+    "note": "No useful new news-led opinion lead.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Burns",
+    "q": "\"A157230\" publication",
+    "results": [
+      {
+        "title": "A157230 (unrelated integer sequence)",
+        "url": "https://oeis.org/A157230"
+      }
+    ],
+    "productive": false,
+    "phase": "targeted publication-history verification",
+    "note": "Not a fresh opinion-discovery search.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Simons",
+    "q": "\"A169013\" publication",
+    "results": [
+      {
+        "title": "A169013 (unrelated integer sequence)",
+        "url": "https://oeis.org/A169013"
+      }
+    ],
+    "productive": false,
+    "phase": "targeted publication-history verification",
+    "note": "Not a fresh opinion-discovery search.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Burns",
+    "q": "\"People v. Wilson\" \"January 19, 2021\" published",
+    "results": [],
+    "productive": false,
+    "phase": "targeted publication-history verification",
+    "note": "Not a fresh opinion-discovery search.",
+    "stage": "unpublished discovery / lead follow-up"
+  },
+  {
+    "j": "Simons",
+    "q": "\"Doe v. Acalanes\" published",
+    "results": [
+      {
+        "title": "Official Supreme Court docket S290151",
+        "url": "https://appellatecases.courtinfo.ca.gov/search/case/dockets.cfm?dist=0&doc_id=3127624&doc_no=S290151&request_token=NiIwLSEnTkw6WyBZSCItTEhJUDw0UDxTKiJeQz9TICAgCg%3D%3D"
+      },
+      {
+        "title": "Official Supreme Court minutes May 14, 2025",
+        "url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/documents/m05142025%28w%29.pdf"
+      }
+    ],
+    "productive": true,
+    "phase": "targeted publication-history verification",
+    "note": "Not a fresh opinion-discovery search.",
+    "stage": "unpublished discovery / lead follow-up"
+  }
+]

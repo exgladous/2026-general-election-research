@@ -1,0 +1,489 @@
+[
+  {
+    "id": "A146855-2018-03-20",
+    "name": "McGlynn v. State of California",
+    "date": "2018-03-20",
+    "court": "California Court of Appeal, First District, Division One",
+    "dockets": [
+      "A146855"
+    ],
+    "citation": "21 Cal.App.5th 548",
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Banke": [
+        "authored court opinion"
+      ]
+    },
+    "capacities": {
+      "Banke": "appellate justice"
+    },
+    "role_scope": {
+      "Banke": "court opinion in full"
+    },
+    "tags": [
+      "public pensions",
+      "vested rights",
+      "judicial compensation"
+    ],
+    "context": [
+      "judges retirement system"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/documents/A146855.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/documents/A146855.PDF",
+    "evidence": "Official PDF cover identifies docket, filing date and CERTIFIED FOR PUBLICATION. Page 33: Banke signs; Margulies, Acting P.J., and Dondero concur. Inspected PDF pages: 1–2, 33.",
+    "verification_method": "Official opinion cover and signature page rechecked; official Supreme Court grant and dismissal minute entries downloaded and inspected",
+    "version": "Supreme Court granted review and deferred briefing on June 27, 2018 (S248513), pending the related pension issue in S247095. On September 23, 2020 it dismissed review under rule 8.528(b)(1) in light of Alameda County Deputy Sheriffs’ Assn. v. Alameda County Employees’ Retirement Assn. (2020) 9 Cal.5th 1032. The official entry is Dismissed and remanded, not an order vacating the appellate opinion or transferring for reconsideration. No merits vote is inferred from the review-dismissal vote.",
+    "uncertainties": [
+      "Subject labels provisional; no full-opinion summary or full-reading benchmark.",
+      "Full post-dismissal docket and all later citing treatment not audited; this retry resolves the identified review-status uncertainty."
+    ],
+    "sources": [
+      {
+        "id": "L275",
+        "title": "California Judges Lose Fight of Tighter Pension Scheme | Courthouse News Service",
+        "url": "https://api.courthousenews.com/california-judges-lose-fight-of-tighter-pension-scheme/",
+        "type": "news / legal reporting"
+      },
+      {
+        "id": "L1112",
+        "title": "California Judges Lose Fight of Tighter Pension Scheme | Courthouse News Service",
+        "url": "https://courthousenews.com/california-judges-lose-fight-of-tighter-pension-scheme/",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20",
+    "sha256": "d0d47c3aa1bc7ae874accb4e6bcd1866ccc3fa6b12af5062bc510e4cbdefa425",
+    "original_publication": "published",
+    "current_publication": "published; Supreme Court review dismissed September 23, 2020",
+    "version_evidence_url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/documents/SSEP2320.PDF",
+    "version_evidence": [
+      {
+        "url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/documents/SJUN2718.PDF",
+        "printed_page": 909,
+        "pdf_page": 1,
+        "fact": "Review granted; briefing deferred; official entry matches S248513 and A146855."
+      },
+      {
+        "url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/documents/SSEP2320.PDF",
+        "printed_page": 1296,
+        "pdf_page": 5,
+        "fact": "Review dismissed on September 23, 2020 under rule 8.528(b)(1); matches S248513 and A146855."
+      }
+    ],
+    "separate_procedural_events": [
+      {
+        "event_id": "S248513-2020-09-23-review-dismissal",
+        "court": "California Supreme Court",
+        "date": "2020-09-23",
+        "kind": "review dismissed",
+        "ballot_justice_votes": {
+          "Groban": "voted for dismissal of review"
+        },
+        "evidence_url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/documents/SSEP2320.PDF",
+        "evidence": "Official minutes printed p.1296 list Groban among dismissal votes.",
+        "scope_note": "Procedural Supreme Court order only; not an authorship or joinder in the 2018 Court of Appeal merits opinion."
+      }
+    ]
+  },
+  {
+    "id": "A163590-2022-03-21",
+    "name": "SK Trading International Co. Ltd. v. Superior Court",
+    "date": "2022-03-21",
+    "court": "California Court of Appeal, First District, Division 4",
+    "dockets": [
+      "A163590"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Brown": [
+        "joined court opinion"
+      ]
+    },
+    "capacities": {
+      "Brown": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "personal jurisdiction",
+      "antitrust"
+    ],
+    "context": [
+      "gasoline prices"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/documents/A163590.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/documents/A163590.PDF",
+    "evidence": "Page 1: filed 3/21/22; NOT TO BE PUBLISHED; A163590. Page 16: Pollak authors; Streeter and Brown concur. Official published packet p.1 and appended April 12 publication order checked.",
+    "verification_method": "Official court PDF cover, opening and signature passage inspected with pypdf; local source retained.",
+    "version": "Filed March 21, 2022 unpublished; certified for publication April 12, 2022, no change in judgment. Official published PDF includes order. Supreme Court petition review denied July 13, 2022 per official conference results.",
+    "uncertainties": [
+      "Provisional tags from selected passages; no full-read summary."
+    ],
+    "sources": [
+      {
+        "title": "Korean energy giant can’t dodge suit over California gas price-fixing claims",
+        "url": "https://www.courthousenews.com/korean-energy-giant-cant-dodge-suit-over-california-gas-price-fixing/",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A159246-2021-03-16",
+    "name": "Collondrez v. City of Rio Vista",
+    "date": "2021-03-16",
+    "court": "California Court of Appeal, First District, Division 3",
+    "dockets": [
+      "A159246",
+      "A159369"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Petrou": [
+        "authored court opinion"
+      ]
+    },
+    "capacities": {
+      "Petrou": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "public records",
+      "Anti-SLAPP"
+    ],
+    "context": [
+      "police discipline"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/documents/A159246.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/documents/A159246.PDF",
+    "evidence": "Official p.1 certified for publication, dockets A159246/A159369; p.18 Petrou author, Fujisaki/Wiseman concur.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "Official original inspected; subsequent docket history not fully audited.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "Former Rio Vista cop can’t sue city over release of information on illegal arrest",
+        "url": "https://www.sfchronicle.com/local/article/Former-Rio-Vista-cop-can-t-sue-city-over-16033257.php",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A155082-2019-09-25",
+    "name": "People v. Francis A.",
+    "date": "2019-09-25",
+    "court": "California Court of Appeal, First District, Division 2",
+    "dockets": [
+      "A155082"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Stewart": [
+        "authored court opinion"
+      ]
+    },
+    "capacities": {
+      "Stewart": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "juvenile justice",
+      "criminal law"
+    ],
+    "context": [
+      "school discipline"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/archive/A155082.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/archive/A155082.PDF",
+    "evidence": "Official p.1 certified published and formal caption Francis A.; p.14 Stewart authors; Richman/Miller concur.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "Official original inspected; subsequent docket history not fully audited.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "California court overturns 17-year-old’s conviction for resisting arrest",
+        "url": "https://www.sfchronicle.com/bayarea/article/Calif-appeals-court-overturns-youthful-14474436.php",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A141143-2015-08-06",
+    "name": "In re I.C.",
+    "date": "2015-08-06",
+    "court": "California Court of Appeal, First District, Division 2",
+    "dockets": [
+      "A141143"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Stewart": [
+        "authored dissent"
+      ]
+    },
+    "capacities": {
+      "Stewart": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "juvenile dependency",
+      "evidence"
+    ],
+    "context": [
+      "child testimony"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/archive/A141143.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/archive/A141143.PDF",
+    "evidence": "Official cover: Filed 8/6/15; dissent by J. Stewart; CERTIFIED FOR PUBLICATION. Dissent signature printed p.29.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "Originally certified published; review granted October 28, 2015 (official minutes S229276). Supreme Court later reversed April 26, 2018. Historical publication is distinguished from current precedential force; lower-opinion subsequent publication status requires docket reconciliation.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "3-year-old Fremont girl’s testimony against father disputed",
+        "url": "https://www.sfgate.com/crime/article/3-year-old-Fremont-girl-s-testimony-against-6438832.php",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A146077-2017-07-25",
+    "name": "County of San Mateo v. Superior Court (Rowe)",
+    "date": "2017-07-25",
+    "court": "California Court of Appeal, First District, Division 2",
+    "dockets": [
+      "A146077"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Stewart": [
+        "authored court opinion"
+      ]
+    },
+    "capacities": {
+      "Stewart": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "government immunity",
+      "premises liability"
+    ],
+    "context": [
+      "fallen tree",
+      "public park"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/archive/A146077.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/archive/A146077.PDF",
+    "evidence": "Official p.1 certified published; p.24 Stewart authors; Kline/Richman concur.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "Official original inspected; subsequent docket history not fully audited.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "California Supreme Court: Boy hurt by fallen tree can sue San Mateo County",
+        "url": "https://www.sfgate.com/bayarea/article/California-Supreme-Court-Boy-hurt-by-fallen-tree-12274016.php",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A146495-2017-04-05",
+    "name": "Pacific Gas and Electric Co. v. Superior Court (Rowe)",
+    "date": "2017-04-05",
+    "court": "California Court of Appeal, First District, Division 2",
+    "dockets": [
+      "A146495"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Stewart": [
+        "authored court opinion"
+      ]
+    },
+    "capacities": {
+      "Stewart": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "recreational use immunity",
+      "premises liability"
+    ],
+    "context": [
+      "fallen tree",
+      "public park"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/archive/A146495M.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/archive/A146495M.PDF",
+    "evidence": "Official modified packet cover and attached original p.1 certified published; original p.31 Stewart authors; Kline/Richman concur.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "April 20, 2017 modification/rehearing-denial packet, no change in judgment. Supreme review denied July 19, 2017 per official minutes.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "Boy can sue PG&E over injury at San Mateo County park, court rules",
+        "url": "https://www.sfgate.com/news/article/Boy-can-sue-PG-E-over-injury-at-San-Mateo-County-11053773.php",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A152941-2019-08-26",
+    "name": "Spracher v. Paul M. Zagaris, Inc.",
+    "date": "2019-08-26",
+    "court": "California Court of Appeal, First District, Division 3",
+    "dockets": [
+      "A152941",
+      "A152962"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Petrou": [
+        "authored court opinion"
+      ]
+    },
+    "capacities": {
+      "Petrou": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "arbitration",
+      "waiver"
+    ],
+    "context": [
+      "real estate disclosures",
+      "class action"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/archive/A152941.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/archive/A152941.PDF",
+    "evidence": "Cover filed 8/26/19; modified and certified publication 9/17/19. P.7 Petrou author; Siggins/Fujisaki concur; appended order certifies publication.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "Initially unpublished; modified and certified published September 17, 2019; no change in judgment.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "California Real Estate Fraud Scheme Class Action Stays in Court",
+        "url": "https://news.bloomberglaw.com/class-action/california-real-estate-fraud-scheme-class-action-stays-in-court",
+        "type": "news / legal reporting"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A174194-2026-08-26",
+    "name": "Schurman Family Company TIC v. Superior Court",
+    "date": "2026-08-26",
+    "court": "California Court of Appeal, First District, Division 2",
+    "dockets": [
+      "A174194"
+    ],
+    "citation": null,
+    "publication": "published",
+    "status": "verified",
+    "roles": {
+      "Desautels": [
+        "authored court opinion"
+      ],
+      "Stewart": [
+        "joined court opinion"
+      ]
+    },
+    "capacities": {
+      "Desautels": "regular member",
+      "Stewart": "regular member"
+    },
+    "role_scope": {},
+    "tags": [
+      "Privette doctrine",
+      "premises liability"
+    ],
+    "context": [
+      "contractor workplace injury"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/documents/A174194.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/documents/A174194.PDF",
+    "evidence": "Official p.1 certified published; p.22 Desautels authors; Stewart and Richman concur.",
+    "verification_method": "Official court PDF cover, opening, signatures and named modification passage inspected.",
+    "version": "Official original checked. Prior catalog identified Supreme Court case S298954; present review status not audited.",
+    "uncertainties": [],
+    "sources": [
+      {
+        "title": "Desautels' rulings weigh deference, responsibility and litigation choices",
+        "url": "https://dailyjournal.com/articles/395079-desautels-rulings-weigh-deference-responsibility-and-litigation-choices",
+        "type": "legal reporting / judicial profile"
+      }
+    ],
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "A157966-2021-05-24",
+    "name": "Reck v. FCA US LLC",
+    "date": "2021-05-24",
+    "court": "California Court of Appeal, First District, Division One",
+    "dockets": [
+      "A157966"
+    ],
+    "citation": null,
+    "publication": "published",
+    "original_publication": "published",
+    "current_publication": "official archive opinion certified for publication",
+    "status": "verified",
+    "roles": {
+      "Banke": [
+        "joined court opinion"
+      ]
+    },
+    "capacities": {
+      "Banke": "appellate justice"
+    },
+    "role_scope": {
+      "Banke": "court opinion in full"
+    },
+    "tags": [
+      "attorney fees",
+      "consumer protection",
+      "settlement offers"
+    ],
+    "context": [
+      "vehicle warranties",
+      "Song-Beverly Consumer Warranty Act"
+    ],
+    "url": "https://www.courts.ca.gov/opinions/archive/A157966.PDF",
+    "evidence_url": "https://www.courts.ca.gov/opinions/archive/A157966.PDF",
+    "evidence": "Official PDF p.1: Filed 5/24/21, CERTIFIED FOR PUBLICATION, First District Division One, A157966, Kathy L. Reck et al. v. FCA US LLC et al. Official PDF p.22: Sanchez signs the court opinion; Humes, P.J., and Banke concur without limitation. Cover and opening supply provisional attorney-fee/consumer-warranty labels. No other ballot justice appears on the panel.",
+    "verification_method": "Official court archive PDF downloaded; complete cover/opening and signature pages inspected",
+    "version": "Official archive PDF has May 24, 2021 filing date and publication certification. No later modification or review history established by this bounded retry; exact docket/modification web search yielded no official additional entry and is not treated as proof of absence.",
+    "uncertainties": [
+      "Full subsequent docket and citing-treatment audit not performed.",
+      "Official reporter citation not established.",
+      "Subject labels provisional; no summaries generated."
+    ],
+    "sources": [
+      {
+        "title": "FCA on Hook for More Attorneys’ Fees in Settled Lemon Law Case",
+        "url": "https://news.bloomberglaw.com/product-liability-and-toxics-law/fca-on-hook-for-more-attorneys-fees-in-settled-lemon-law-case",
+        "type": "news / legal reporting — existing lead, not revisited in official-only retry"
+      }
+    ],
+    "checked_on": "2026-10-20",
+    "sha256": "0a47aa845277823ef9b226c523735cbe7dfbc2804e5368b27236fef6e3a6a75d"
+  }
+]
