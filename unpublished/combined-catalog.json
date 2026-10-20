@@ -126,7 +126,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "Phase 0 selected-passage labels checked against full opinion",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "S295901-2026-09-24",
@@ -170,7 +171,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S295866-2026-09-24",
@@ -211,7 +212,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels from selected passages; no blind full-opinion accuracy benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "S126387-2026-08-27",
@@ -253,7 +255,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S289391-2026-08-24",
@@ -296,7 +298,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S282186-2026-08-13",
@@ -338,7 +340,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S288176-2026-08-10",
@@ -384,7 +386,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels from selected passages; no blind full-opinion accuracy benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "A172760-2026-08-04",
@@ -437,7 +440,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S286264-2026-08-03",
@@ -480,7 +483,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S283862-2026-08-03",
@@ -541,7 +544,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A172217-2026-07-20",
@@ -587,7 +590,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A170674-2026-07-17",
@@ -626,13 +629,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=3092656&doc_no=A170674&request_token=NiIwLSEnPkg%2FW1BNSCJNUElJQEg6UVxfJCJeXz1SMCAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "2574740fb4af96f4001693f108d7b39ed8f95029bbfb3ec7e6834434b044f8b6",
-      "prior_catalog_status": "excluded — unpublished",
       "publication_check": {
         "docket": "A170674",
         "doc_id": "3092656",
@@ -689,7 +691,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A174647-2026-07-10",
@@ -732,7 +734,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A170759-2026-06-30",
@@ -780,7 +782,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A171325-2026-06-16",
@@ -820,13 +822,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=3111950&doc_no=A171325&request_token=NiIwLSEnPkg%2FW1BNSCJNUEhIUEw6UVxfJCJOSzhSICAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "4ee32f320e7633cebaadd3aa118a8adbe8c6f2ab90e6f1878579391003eb17fb",
-      "prior_catalog_status": "excluded — unpublished",
       "publication_check": {
         "docket": "A171325",
         "doc_id": "3111950",
@@ -879,10 +880,9 @@
         "Tags are provisional selected-passage labels, not full-opinion analysis."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "80c3f4cafd24573accfbe7dbcfc779953aa3bc5ed63b3eb865983a125b4ac429",
-      "prior_catalog_status": "excluded — unpublished",
       "publication_check": {
         "docket": "A171962",
         "doc_id": "3118992",
@@ -935,7 +935,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S105403-2026-06-01",
@@ -977,7 +977,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S103358-2026-06-01",
@@ -1019,7 +1019,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S044739-2026-06-01",
@@ -1073,7 +1073,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S287285-2026-05-28",
@@ -1166,7 +1166,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S284751-2026-05-04",
@@ -1221,7 +1221,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A172054-2026-05-01",
@@ -1265,7 +1265,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S277910-2026-04-30",
@@ -1307,7 +1307,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S112146-2026-04-30",
@@ -1349,7 +1349,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A171763-2026-03-26",
@@ -1392,7 +1392,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A167721-2026-03-09",
@@ -1443,7 +1443,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A168345-2026-03-05",
@@ -1487,7 +1487,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A171546-2026-02-05",
@@ -1530,7 +1530,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A171983-2026-02-02",
@@ -1579,7 +1579,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A169279-2026-01-06",
@@ -1622,7 +1622,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S257844-2025-12-29",
@@ -1664,7 +1664,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A172629-2025-12-17",
@@ -1707,10 +1707,9 @@
         "Full subsequent-history audit not performed."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "4eacf6553b915bc735e64b9cd4ab86a8debca9c6e8756078f2cb9db67d40513b",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A172629",
         "doc_id": "3125187",
@@ -1764,7 +1763,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S275272-2025-11-10",
@@ -1826,7 +1825,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S270535-2025-11-06",
@@ -1871,7 +1870,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A169588-2025-09-08",
@@ -1915,7 +1914,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A168758-2025-08-28",
@@ -1958,7 +1957,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165779-2025-08-01",
@@ -1998,13 +1997,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=2391976&doc_no=A165779&request_token=NiIwLSEnPkg%2FW1BNSCJNVE9JQEw6UVxfJSNOWz1RICAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "fbe34c667c564936041f90066a760548aaaaae6efeb3be0a78568b2e3205e82e",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A165779",
         "doc_id": "2391976",
@@ -2060,7 +2058,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A171451-A171570-2025-06-27",
@@ -2102,7 +2100,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels from selected passages; no blind full-opinion accuracy benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "A170957-2025-06-27",
@@ -2147,13 +2146,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=3106933&doc_no=A170957&request_token=NiIwLSEnPkg%2FW1BNSCJNVE9IQEw6UVxfJCJeIz9SQCAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "539b8404d60992db20b01b7b6898fbdb71c394a43c05f138f62304c3b0a08767",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A170957",
         "doc_id": "3106933",
@@ -2207,7 +2205,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S284303-2025-05-01",
@@ -2251,7 +2249,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A169013-2025-02-24",
@@ -2306,10 +2304,9 @@
         "Original unpublished status verified; later Court of Appeal publication order has not been independently ruled out. Supreme Court review denial is not merits participation."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "b843b09fcc4a6bc0698d7a16d542a883fc998a3054ab6c5ad49518b847cb1f05",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A169013",
         "doc_id": "2817197",
@@ -2370,7 +2367,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S279737-2025-01-06",
@@ -2413,7 +2410,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A168526-2024-11-07",
@@ -2458,7 +2455,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A168296-2024-09-30",
@@ -2512,7 +2509,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A166228-2024-09-11",
@@ -2556,7 +2553,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S277211-2024-08-22",
@@ -2599,7 +2596,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S275578-2024-08-19",
@@ -2641,7 +2638,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S265223-2024-07-29",
@@ -2685,7 +2682,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S279622-2024-07-25",
@@ -2730,7 +2727,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A164843-2024-06-21",
@@ -2774,7 +2771,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A169318-2024-06-13",
@@ -2824,7 +2821,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S279242-2024-06-06",
@@ -2868,7 +2865,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S274743-2024-06-03",
@@ -2911,7 +2908,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S277893-2024-05-23",
@@ -2955,7 +2952,7 @@
       "discovery_note": "Existing source covered oral argument. Participation is now established by the later official opinion-filing minutes, not by hearing coverage.",
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163571-2024-05-06",
@@ -3003,7 +3000,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S267522-2024-05-02",
@@ -3045,7 +3042,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S277120-2024-04-22",
@@ -3094,7 +3091,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A167719-2024-03-06",
@@ -3139,7 +3136,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S277487-2024-03-04",
@@ -3201,7 +3198,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165976-2024-02-29",
@@ -3246,7 +3243,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165888-2023-12-28",
@@ -3288,7 +3285,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A164550-2023-11-29",
@@ -3332,7 +3329,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163458-2023-09-26",
@@ -3378,7 +3375,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A167241-2023-09-13",
@@ -3421,7 +3418,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S263972-2023-08-24",
@@ -3469,7 +3466,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163847-2023-08-17",
@@ -3512,7 +3509,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165899-2023-08-08",
@@ -3563,7 +3560,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165925-2023-08-04",
@@ -3612,7 +3609,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A164935-2023-08-03",
@@ -3655,7 +3652,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S263180-2023-07-31",
@@ -3698,7 +3695,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A164180-2023-07-21",
@@ -3742,7 +3739,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S269212-2023-07-17",
@@ -3791,7 +3788,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165390-2023-07-11",
@@ -3834,7 +3831,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165012-2023-06-09",
@@ -3877,7 +3874,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S268925-2023-06-05",
@@ -3920,7 +3917,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A164168-2023-04-28",
@@ -3964,7 +3961,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A162323-2023-04-25",
@@ -4008,7 +4005,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163165-2023-04-21",
@@ -4052,7 +4049,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163558-2023-04-04",
@@ -4095,7 +4092,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A166221-2023-03-30",
@@ -4137,7 +4134,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163655-2023-03-13",
@@ -4182,7 +4179,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A165451-2023-02-24",
@@ -4238,7 +4235,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A164947-2023-01-17",
@@ -4280,7 +4277,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "Phase 0 selected-passage labels checked against full opinion",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "A164053-2023-01-04",
@@ -4332,7 +4330,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A163474-2022-11-21",
@@ -4375,7 +4373,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A161959-2022-09-30",
@@ -4421,7 +4419,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A161787-2022-09-27",
@@ -4464,10 +4462,9 @@
         "Unpublished designation verified in official retrieved version; complete subsequent docket/publication audit not performed. Unsuccessful published-URL/search checks are not evidence of no later action."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "b6605e6f6acffc59891714340f3841fe06ad95440069b550aa9a96da90fde935",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A161787",
         "doc_id": "2339084",
@@ -4525,7 +4522,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S271265-2022-08-15",
@@ -4567,7 +4564,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S266254-2022-08-04",
@@ -4610,7 +4607,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A162842-2022-06-17",
@@ -4658,7 +4655,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A160142-2022-03-28",
@@ -4700,7 +4697,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A161000-2022-03-25",
@@ -4742,13 +4739,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=2329316&doc_no=A161000&request_token=NiIwLSEnPkg%2FW1BNSCJNUEhIMEg6UVxfJSJORzpTMCAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "f39aab04444fcf73d01912e45846c4d44ca6e7f098facc00269e71aeae0604d0",
-      "prior_catalog_status": "excluded — unpublished",
       "publication_check": {
         "docket": "A161000",
         "doc_id": "2329316",
@@ -4804,7 +4800,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S258498-2022-01-13",
@@ -4847,7 +4843,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A162453-2021-12-29",
@@ -4907,7 +4903,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S259850-2021-12-27",
@@ -4951,7 +4947,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A159536-2021-09-22",
@@ -4997,7 +4993,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A160384-2021-08-31",
@@ -5039,7 +5035,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S256978-2021-08-12",
@@ -5080,7 +5076,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels from selected passages; no blind full-opinion accuracy benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "S260598-2021-07-26",
@@ -5123,7 +5120,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A159322-2021-06-30",
@@ -5163,13 +5160,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=2309296&doc_no=A159322&request_token=NiIwLSEnPkg%2FW1BNSCJNWENJUDg6UVxfJiBOSzhTUCAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "9aafbbcf2fe436b18516c0e429fddc4f5b69cb8d1a2c4cfb409bb603b766e838",
-      "prior_catalog_status": null,
       "publication_check": null
     },
     {
@@ -5214,7 +5210,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S250108-2021-05-27",
@@ -5258,7 +5254,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A159088-2021-03-29",
@@ -5301,7 +5297,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S259011-2021-02-25",
@@ -5342,7 +5338,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels from selected passages; no blind full-opinion accuracy benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "A157983-2021-01-27",
@@ -5403,7 +5400,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A157230-2021-01-19",
@@ -5451,10 +5448,9 @@
         "Tags are provisional selected-passage labels, not full-opinion analysis."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "832f80f0bd950fd411a7d26e4d51b01e2cf104dd760b5f52150257925961e809",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A157230",
         "doc_id": "2286784",
@@ -5509,10 +5505,9 @@
         "Unpublished designation verified in official retrieved version; complete subsequent docket/publication audit not performed. Unsuccessful published-URL/search checks are not evidence of no later action."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "2e193f43c795d95c9750b3175f71b69340765f855cc1127925c6583842c64c28",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A159296",
         "doc_id": "2308940",
@@ -5567,7 +5562,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A157097-2020-09-21",
@@ -5612,7 +5607,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A157330-2020-09-17",
@@ -5654,7 +5649,8 @@
       ],
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels from selected passages; no blind full-opinion accuracy benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete",
+      "uncertainties": []
     },
     {
       "id": "A155940-2020-07-20",
@@ -5709,7 +5705,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A154691-2020-06-29",
@@ -5751,7 +5747,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A157551-2020-06-25",
@@ -5799,7 +5795,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A160153-2020-06-24",
@@ -5842,7 +5838,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A151250-2020-06-15",
@@ -5886,10 +5882,9 @@
         "Unpublished designation verified in official retrieved version; complete subsequent docket/publication audit not performed. Unsuccessful published-URL/search checks are not evidence of no later action."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "628661b600e55bdc7d6356236d72a4276eca226e05db55081874c1cb472aa398",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A151250",
         "doc_id": "2197662",
@@ -5943,7 +5938,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A154694-2020-03-23",
@@ -5987,7 +5982,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A157998-2020-01-29",
@@ -6029,7 +6024,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A154612-2020-01-28",
@@ -6075,7 +6070,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S240156-2019-12-26",
@@ -6120,7 +6115,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S247266-2019-12-19",
@@ -6165,7 +6160,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A150198-2019-12-05",
@@ -6221,7 +6216,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A152442-2019-11-26",
@@ -6263,7 +6258,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S238627-2019-11-25",
@@ -6306,7 +6301,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A155392-2019-11-04",
@@ -6354,7 +6349,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A154253-2019-09-30",
@@ -6399,10 +6394,9 @@
         "Unpublished designation verified in official retrieved version; complete subsequent docket/publication audit not performed. Unsuccessful published-URL/search checks are not evidence of no later action."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "d9944adf70008923b16852602d7d46262b3b9fd5825ce8df9f450f66498b4aa2",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A154253",
         "doc_id": "2251213",
@@ -6458,7 +6452,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A151763-2019-09-26",
@@ -6501,7 +6495,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "S243855-2019-08-26",
@@ -6546,7 +6540,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A148425-2019-06-20",
@@ -6590,7 +6584,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A153205-2019-05-17",
@@ -6635,7 +6629,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A156477-2019-03-12",
@@ -6678,7 +6672,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A149919-2018-02-14",
@@ -6727,7 +6721,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A148606-2018-01-16",
@@ -6772,7 +6766,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A144268-2017-08-09",
@@ -6821,7 +6815,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A143190-2017-05-26",
@@ -6870,7 +6864,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A146335-2017-04-27",
@@ -6912,13 +6906,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=2121356&doc_no=A146335&request_token=NiIwLSEnPkg%2FW1BNSCJNVE5IUFQ6UVxfJyM%2BSzlSICAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "d443561145259a7c77a457e31c1ae6a89ed98217b467bb7c37270b9fc0916444",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A146335",
         "doc_id": "2121356",
@@ -6980,7 +6973,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A138266-2015-01-13",
@@ -7082,7 +7075,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A135512-2014-09-15",
@@ -7124,7 +7117,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A138891-2014-09-11",
@@ -7163,13 +7156,12 @@
       ],
       "publication_verification_url": "https://appellatecases.courtinfo.ca.gov/search/case/disposition.cfm?dist=1&doc_id=2047799&doc_no=A138891&request_token=NiIwLSEnPkg%2FW1BNSCJNVEhJUDw6UVxfICBeJzNTICAgCg%3D%3D",
       "uncertainties": [
-        "Subject labels provisional; no full-opinion summary or full-reading benchmark."
+        "Subject labels remain provisional catalog labels; a separate full-opinion summary is available."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "5a542a34c50b67f2d47ca62c5f61f5a4c8c4c177ad928610f8a759888727f24f",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A138891",
         "doc_id": "2047799",
@@ -7224,7 +7216,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A131610-2013-03-29",
@@ -7272,10 +7264,9 @@
         "Full subsequent-history audit not performed."
       ],
       "checked_on": "2026-10-20",
-      "tag_status": "Provisional labels from selected passages; no summary generated",
+      "tag_status": "Provisional catalog labels; full-opinion summary available separately",
       "summary_status": "complete",
       "source_sha256": "23d69d225bdc7097bc5abbd4728ff27e0576b1ee81eff13b8742581969ca81a5",
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A131610",
         "doc_id": "1975385",
@@ -7328,7 +7319,7 @@
       "discovery_note": null,
       "checked_on": "2026-10-19",
       "tag_status": "provisional broad labels; selected passages, not a full-read benchmark",
-      "summary_status": "not generated"
+      "summary_status": "complete"
     },
     {
       "id": "A127394-2013-02-05",
@@ -7430,7 +7421,6 @@
       "tag_status": "Provisional labels from selected passages; no summary generated",
       "summary_status": "blocked",
       "source_sha256": null,
-      "prior_catalog_status": null,
       "publication_check": {
         "docket": "A122321",
         "doc_id": "1374546",
@@ -10151,7 +10141,6 @@
         "combined": 26
       }
     ],
-    "baseline_sha256": "75977a9804b84fdf3041118765f37997b3c419781d4171f2210bda058358100f",
     "complete_inventory": false,
     "summary_count_added": 17
   },
